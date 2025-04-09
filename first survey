@@ -1,0 +1,88 @@
+Section 1: Demographs (3 questions)
+
+1. Age
+18-24
+25-35
+36-45
+46-55
+56-65
+66+
+
+2. Gender
+Male
+Female
+Prefer not to say
+Non-binary/other
+
+3. Do you own a vehicle with internet connectivity (e.g. GPS, in-car apps, or smart features)?
+Yes
+No
+Not sure
+
+Section 2: Awareness of VANETs and Location-Based services (4 questions)
+
+1.  How familiar are you with the concept of connected vehicles or VANETs (Vehicular Ad Hoc Networks)?
+Very familiar
+Somewhat familiar
+Not familiar at all
+
+2.  Do you use location-based services (LBS) in your vehicle (e.g. GPS navigation, traffic updates, parking apps, etc)?
+Yes
+No
+Not sure
+
+3. How often do you use location-based services whilst driving?
+Always
+Frequently
+Occasionally
+Rarely
+Never
+
+4.  Are you aware that your vehicle’s location data may be shared with third parties (e.g. navigation services, insurance companies, etc)?
+Yes, and I'm worried about it
+Yes, but I'm not worried about it
+No, I was not aware
+
+Section 3: Privacy Concerns (4 questions)
+
+1. How concerned are you about the privacy of your location data when using location-based services in your vehicle?  
+Extremely concerned
+Somewhat concerned
+Neutral
+Not that concerned
+Not concerned at all
+
+2. Which of the following aspects of location data privacy concern you the most? (Select all that apply)  
+My location being tracked in real-time
+Location data being sold to third-parties
+Unauthorised access to my location data (i.e being hacked)
+My location data being used for targeted adverts or services
+No concerns
+
+3. Have you ever disabled or avoided using location-based services in your vehicle due to privacy concerns?  
+Yes
+No
+I don't use location-based services
+
+4. In your opinion, who should be most responsible for protecting your location privacy in location-based services?  
+The vehicle manufacturer
+The app or service provider
+Government regulatory bodies
+The user (I should manage my own privacy settings)
+
+Section 4: Privacy-Preserving mechanisms (3 questions)
+
+1. Would you be more comfortable using location-based services if they used privacy-preserving technologies such as anonymisation or encryption of your data?
+I would feel much more comfortable
+I would feel somewhat more comfortable
+It would not matter to me
+
+2.  How important do you think it is to have privacy-preserving options (e.g. opting out of location sharing) in your vehicle's location-based services?
+Extremely important
+Very important
+Somewhat important
+Not important
+
+3. Would you stop using location-based services in your vehicle if you knew that your location data was being used for purposes other than navigation (e.g. for advertising or sharing with third parties)?  
+Yes
+No
