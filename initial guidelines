@@ -1,0 +1,17 @@
+Turn off location tracking
+Apps often request permission to access your location, but not all of them truly need it to function. Go through your app permissions in the settings menu of your device and turn off location access for apps that don't require it. For apps that do need location services (navigation apps such as Google Maps), consider switching from "Always Allow" to "Allow Only While Using the App." This way, the app can't track your location in the background when it's not actively in use, which helps reduce unnecessary data collection.
+
+Disable location history
+Many apps, especially those from large tech companies, store a record of your location history, which can reveal a lot about your habits and daily routine. Disabling location history in your device settings prevents your location from being logged over time, adding an extra layer of privacy. If you only need location tracking temporarily, enable it only during specific periods and then turning it off when it's not needed. You can manage these settings through your device's Google or Apple account preferences.
+
+Use Incognito Mode
+Many location-based apps, like Google Maps, offer an "Incognito Mode" or similar feature to prevent your search history from being saved to your account. When you use Incognito Mode, your app stops logging places you visit or search for, giving you more privacy for individual searches.
+
+Use a VPN
+A Virtual Private Network (VPN) masks your internet connection by sending it through a remote server. This process hides your IP address, making it harder for apps, websites, or third parties to track your location or identify you to your online activity. VPNs are especially useful when using public Wi-Fi, as they secure your connection and reduce the risk of location or data interception by hackers.
+
+Opt out of data sharing
+Many apps collect and share data with third parties, including advertisers, which can compromise your privacy. In the settings of most location-based services, you can often opt out of data sharing or limit data collection to essential purposes only. Some apps may require data sharing for full functionality, so be sure to read through each setting carefully and disable any permissions that seem unnecessary.
+
+Regularly clear your location data
+Over time, apps may accumulate a detailed record of your location history, which can be valuable to advertisers or hackers. Regularly clearing your location history reduces the risk of unauthorised data access and ensures that only your most recent locations are stored. In Google Maps, you can set up automatic deletion of location data at intervals like every 3 or 18 months. Deleting location data is often found under the privacy settings in both iOS and Android devices as well as in individual apps.
