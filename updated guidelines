@@ -1,25 +1,25 @@
 Refine Location Access Permissions
-Guideline: Regularly audit and customize app permissions to ensure only essential apps (like navigation or emergency services) have access to your location data. Limit permissions to “Allow Only While Using the App” to reduce background tracking and unintended data collection.
+Guideline: Regularly audit and customise app permissions to ensure only essential apps (like navigation or emergency services) have access to your location data. Limit permissions to “Allow Only While Using the App” to reduce background tracking and unintended data collection.
 Implementation: Most smartphones now offer privacy dashboards. On iOS, navigate to Settings -> Privacy & Security -> Location Services to adjust app access. Android users can go to Settings -> Privacy -> Permission Manager. For enhanced control, apps like Bouncer (Android) allow temporary permissions that expire automatically once an app is closed.
 
 Control and Limit Location History
 Guideline: Disable location history where possible, or set short auto-deletion windows to prevent detailed travel logs from being built over time. This reduces the risk of profiling or data exposure.
-Implementation: In your Google Account, go to My Activity -> Location History to disable tracking or set auto-deletion for every 3 or 18 months. On Apple, adjust this via Settings -> Privacy -> Location Services -> System Services -> Significant Locations. Apps like My Data Manager can help you visualize and manage data collection from different sources.
+Implementation: In your Google Account, go to My Activity -> Location History to disable tracking or set auto-deletion for every 3 or 18 months. On Apple, adjust this via Settings -> Privacy -> Location Services -> System Services -> Significant Locations. Apps like My Data Manager can help you visualise and manage data collection from different sources.
 
 Adopt Private Browsing Practices
 Guideline: Use private modes when conducting location-based searches to prevent your visited places or search history from being recorded and stored.
 Implementation: In Google Maps, select your profile picture and tap “Turn on Incognito Mode.” For general browsing, apps like Brave, Firefox Focus, or DuckDuckGo Privacy Browser offer tracker blocking, anonymous browsing, and automatic data clearing with each session.
 
-Utilize Network Privacy Tools
+Utilise Network Privacy Tools
 Guideline: A VPN (Virtual Private Network) provides a secure channel for your internet activity, shielding your IP address and encrypting your traffic—especially important when using apps on public or unsecured Wi-Fi.
 Implementation: Install VPNs like ProtonVPN, NordVPN, or Surfshark—these services are user-friendly, reliable, and support mobile platforms. Most allow quick activation with one tap and offer built-in kill switches to prevent accidental data leaks.
 
 Opt-Out and Review Data Sharing Settings
-Guideline: Many apps and services default to sharing your data with third parties. Periodically review these settings and opt out of data sharing or ad personalization wherever possible.
+Guideline: Many apps and services default to sharing your data with third parties. Periodically review these settings and opt out of data sharing or ad personalisation wherever possible.
 Implementation: On Android or iOS, visit device privacy settings to find app-specific data sharing options. Apps like GlassWire help you detect suspicious data transfers in real time. You can also visit your Google Ad Settings or Apple’s App Tracking Transparency section to limit third-party data use.
 
 Implement Additional Device-Level Protections
-Guideline: Device-level security reduces the risk of unauthorized access, ensuring your privacy settings aren’t easily bypassed by malware or vulnerabilities.
+Guideline: Device-level security reduces the risk of unauthorised access, ensuring your privacy settings aren’t easily bypassed by malware or vulnerabilities.
 Implementation: Keep your device updated with the latest OS and security patches. Use multi-factor authentication (MFA) for sensitive apps and accounts. Consider security apps like Lookout, Bitdefender, or Avast Mobile Security that monitor for threats and scan for weak points. Enable fingerprint, Face ID, or PIN locks on your device for physical security.
 
 Monitor Privacy Regularly
